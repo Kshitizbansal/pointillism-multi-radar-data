@@ -1,5 +1,5 @@
 # Pointillism: A Multi-modal dataset for automotive radar sensing.
-Official multi-radar Dataset release for [Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars](https://wcsng.ucsd.edu/pointillism/). 
+Official multi-radar Dataset release for [Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars](https://wcsng.ucsd.edu/pointillism/). Official code for the paper is available at [RP-net](https://github.com/Kshitizbansal/pointillism_rp_net).
 
 ## Sensor setup
 ![pointillism sensor setup](pointillism_setup.png)
